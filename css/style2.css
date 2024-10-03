@@ -119,11 +119,11 @@ footer {
 }
 @media (min-width: 555px) {
             body {
-                background-color: lightgreen;
+                background-color: #7ED4F4;
             }
         }
 @media (min-width: 800px) {
             body {
-                background-color: lightcoral;
+                background-color: #7ED4F4;
             }
         }
