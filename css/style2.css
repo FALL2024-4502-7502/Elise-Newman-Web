@@ -117,3 +117,13 @@ footer {
         flex-direction: column;
     }
 }
+@media (min-width: 555px) {
+            body {
+                background-color: lightgreen;
+            }
+        }
+@media (min-width: 800px) {
+            body {
+                background-color: lightcoral;
+            }
+        }
