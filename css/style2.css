@@ -1,4 +1,4 @@
-body, h1, h2, p, ul {
+body, h1, h2, p1, p2, ul {
     margin: 0;
     padding: 0;
 }
@@ -27,7 +27,17 @@ header {
     color: #4c177a;
     padding: 20px;
 }
-p {
+p1 {
+    background-color: #7EA8F4;
+    text-align: center;
+    font-family: Lato, serif;
+    font-size: 20px;
+    width: 100%;
+    color: #4c177a;
+    padding: 20px;
+}
+
+p2 {
     background-color: #7EA8F4;
     text-align: center;
     font-family: Lato, serif;
