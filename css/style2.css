@@ -1,4 +1,4 @@
-body, h1, p, ul {
+body, h1, h2, p, ul {
     margin: 0;
     padding: 0;
 }
@@ -65,7 +65,7 @@ nav a:hover { text-decoration: none; }
 
 main {
     text-align: center;
-    background-color: ##aecacf;
+    background-color: #aecacf;
     width: 100%;
     color: #4c177a;
     border: none;
@@ -74,7 +74,15 @@ main {
     font-size: 25px;
 }
 
-
+h2 { 
+    background-color: #7EA8F4;
+    text-align: center;
+    font-family: Lato, serif;
+    font-size: 30px;
+    width: 100%;
+    color: #4c177a;
+    padding: 20px;
+}
 main img {
     border: none;
     width: 400px;
